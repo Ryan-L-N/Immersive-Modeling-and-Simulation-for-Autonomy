@@ -57,4 +57,7 @@ Capstone Students
 
 ## Installation Instructions
 
-1. Clone this repo 
+1. Clone this repo. <git clone https://github.com/Ryan-L-N/Capstone.git>
+2. Create a virtual environment named "isaacSim_env".  It must match this exactly so the virtual environment is not tracked by git.  "isaacSim_env" is already in the .gitignore file.
+3. Activate the virtual environment
+4. Install the requirements <pip install -r requirements.txt>
