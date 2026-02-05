@@ -6,9 +6,11 @@ Quadrupedal robots face significant challenges in cluttered terrain, frequently 
 
 ## Motivation
 
-Our specific goal of this repository is to use one of Isaac Sim's built-in quadruped Spot models, develop a custom reinforcement learning policy for locomotion that outperforms Isaac Sim's default Flat Terrain and Rough Terrain policies in cluttered environments.
-
 Our motivation for this is to enhance quadruped locomotion in unstructured environments (like those typically found on a battlefield).
+
+## Goal
+
+Our specific goal of this repository is to use one of Isaac Sim's built-in quadruped Spot models, develop a custom reinforcement learning policy for locomotion that outperforms Isaac Sim's default Flat Terrain and Rough Terrain policies in cluttered environments.
 
 ## Related Work
 
