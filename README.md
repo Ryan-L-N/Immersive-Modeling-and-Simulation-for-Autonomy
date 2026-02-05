@@ -54,3 +54,7 @@ None at this time.
 ## Customer Info
 
 Capstone Students
+
+## Installation Instructions
+
+1. Clone this repo 
